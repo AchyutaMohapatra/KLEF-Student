@@ -33,8 +33,8 @@ npm start
 To login as admin:
 
 ```
-add .masaischool.com at last in your email
-example: abc@gmail.masaischool.com
+add .davschool.com at last in your email
+example: abc@gmail.davschool.com
 
 ```
 
